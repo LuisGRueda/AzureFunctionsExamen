@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ProveProd.API.Administracion": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7283",
+      "launchBrowser": false
+    }
+  }
+}
