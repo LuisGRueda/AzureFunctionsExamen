@@ -15,3 +15,5 @@
 project.assets.json
 project.nuget.cache
 *.GeneratedMSBuildEditorConfig.editorconfig
+# Ignorar archivo de configuración específico
+ProveProd/ProveProd.API.Administracion/Properties/launchSettings.json
